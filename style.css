@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  background: beige;
+  background-color: rgba(248, 248, 247, 0.5);
   max-width: 80%;
   margin: auto;
   border: 3px solid #000;
@@ -29,10 +29,7 @@ h2 {
 }
 
 button {
-  border: none;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: darkslategray;
+  padding: 10px;
   font-weight: bold;
   width: 200px;
   margin-bottom: 5px;
@@ -41,7 +38,7 @@ button {
 }
 
 #increment-btn {
-  background: rgb(81, 211, 255);
+  background: rgb(81, 180, 255);
 }
 
 #save-btn {
