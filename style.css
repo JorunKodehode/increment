@@ -1,0 +1,49 @@
+body {
+  background-image: url("1.etg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  height: 100vh;
+}
+
+.container {
+  background: beige;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #000;
+  border-radius: 10px;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: darkslategray;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: solid 1px black;
+}
+
+#increment-btn {
+  background: rgb(81, 211, 255);
+}
+
+#save-btn {
+  background: rgb(109, 255, 109);
+}
